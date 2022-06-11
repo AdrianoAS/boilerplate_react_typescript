@@ -1,5 +1,7 @@
+import Button from './Components/Button'
+
 function App() {
-  return <p>hello world</p>
+  return <Button title="Salvar" />
 }
 
 export default App

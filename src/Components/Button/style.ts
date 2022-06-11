@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { FlexBox } from '../../styles/FlexBox'
 
 interface IButtonProps {
   size?: 'small' | 'medium' | 'large' | undefined
